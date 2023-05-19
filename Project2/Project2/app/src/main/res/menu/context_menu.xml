@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/imageItem"
+        android:title="View Image"/>
+
+    <item
+        android:id="@+id/websiteItem"
+        android:title="Go to Website"/>
+
+    <item
+        android:id="@+id/addressItem"
+        android:title="See Dealerships"/>
+
+</menu>
